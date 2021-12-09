@@ -1,0 +1,4 @@
+to remove branch local ---> git branch -d dev //if the all changes merged
+			    git branch -D dev //if the changes not merged
+to remove branch remote ---> git push :dev
+				
