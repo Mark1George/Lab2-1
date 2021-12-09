@@ -1,0 +1,4 @@
+how to list tags ---> git tag -l
+how to delete tag local ---> git tag -d v1.4
+how to delete tag remote ---> git push origin --delete v1.4
+
